@@ -1,0 +1,4 @@
+DRUID:
+  URL:
+    INGESTION: http://ec2-52-78-242-133.ap-northeast-2.compute.amazonaws.com:8090/
+    DELETE: http://ec2-52-78-242-133.ap-northeast-2.compute.amazonaws.com:8081/

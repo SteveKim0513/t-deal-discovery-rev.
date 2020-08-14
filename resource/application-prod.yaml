@@ -1,0 +1,4 @@
+DRUID:
+  URL:
+    INGESTION: http://52.78.242.133:8090/
+    DELETE: http://52.78.242.133:8081/

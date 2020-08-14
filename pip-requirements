@@ -1,0 +1,7 @@
+# pip install -r pip-requirements
+requests
+pyyaml
+psutil
+awscli
+boto3
+django
